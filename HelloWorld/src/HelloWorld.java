@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Hello master-AAAAA");
 		System.out.println("Hello hotfix-YYYYY");
 		System.out.println("Hello local-DDADDD");
+		System.out.println("Hello remote-DDDDD");
+
 	}
 
 }
